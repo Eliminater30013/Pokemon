@@ -44,6 +44,7 @@ int main() {
 			cout << "\nPlease enter the Type: ";
 			getline(cin, type1);
 			vec = Calculate_Type_Effectiveness(type1);
+			// test;
 		}
 		if (!vec.empty())
 		{
