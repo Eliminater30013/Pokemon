@@ -1,1 +1,1 @@
-For Those who Type Charts!
+For Those who hate Type Charts!
